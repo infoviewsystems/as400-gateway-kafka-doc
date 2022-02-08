@@ -25,7 +25,7 @@ This document assumes you are familiar with Confluent Kafka, Kafka Connect and C
 
 **IBM i server configuration and requirements** 
 
--   IBM i must have ports 449, 8470, 8472,8473,8475 and 8476, 9470, 9472, 9473, 9475 and 9476 accessible from Mule runtime
+-   IBM i must have ports 449, 8470, 8472,8473,8475 and 8476, 9470, 9472, 9473, 9475 and 9476 accessible from Kafka runtime
 
 -   IBM i must have *CENTRAL, *DTAQ, *RMTCMD, *SIGNON and *SRVMAP host servers running in the QSYSWRK subsystem
 
